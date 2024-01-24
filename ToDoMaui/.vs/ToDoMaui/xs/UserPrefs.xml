@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{DD41771A-133B-4266-BB3E-88F7A427E70E}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ToDoMaui PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="34.0.52" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoMaui/MainPage.xaml">
+    <Files>
+      <File FileName="ToDoMaui/MainPage.xaml.cs" Line="12" Column="23" />
+      <File FileName="ToDoMaui/MainPage.xaml" Line="27" Column="116" />
+      <File FileName="ToDoMaui/ViewModel/MainViewModel.cs" Line="36" Column="18" />
+      <File FileName="ToDoMaui/MauiProgram.cs" Line="21" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ToDoMaui" expanded="True">
+            <Node name="ToDoMaui" expanded="True">
+              <Node name="Platforms" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="ViewModel" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
